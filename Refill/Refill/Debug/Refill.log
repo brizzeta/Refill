@@ -1,0 +1,12 @@
+﻿  Dialog1.cpp
+  Dialog2.cpp
+C:\Users\Owner\Downloads\Telegram Desktop\Volkov_HW_37_System\Volkov_HW_37_System\Dialog2.cpp(83,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Downloads\Telegram Desktop\Volkov_HW_37_System\Volkov_HW_37_System\Dialog2.cpp(92,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Downloads\Telegram Desktop\Volkov_HW_37_System\Volkov_HW_37_System\Dialog2.cpp(99,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Downloads\Telegram Desktop\Volkov_HW_37_System\Volkov_HW_37_System\Dialog2.cpp(106,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Downloads\Telegram Desktop\Volkov_HW_37_System\Volkov_HW_37_System\Dialog2.cpp(115,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Dialog3.cpp
+C:\Users\Owner\Downloads\Telegram Desktop\Volkov_HW_37_System\Volkov_HW_37_System\Dialog3.cpp(89,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  Volkov_HW_37_System.vcxproj -> C:\Users\Owner\Downloads\Telegram Desktop\Volkov_HW_37_System\Debug\Volkov_HW_37_System.exe
